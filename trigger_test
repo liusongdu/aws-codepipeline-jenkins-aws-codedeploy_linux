@@ -1,4 +1,6 @@
 
+stageName and actionName attrs into the "Message" attr.
+
 Grant Lambda function "ApprovalHandler" w/ permission to call codepipeline:PutApprovalResult. retry
 
 Slack 403_client_error. Try again.
