@@ -1,4 +1,6 @@
 
+Grant Lambda function "ApprovalHandler" w/ permission to call codepipeline:PutApprovalResult. retry
+
 Slack 403_client_error. Try again.
 
 Last time Lambda did not save environmental var, or I forgot to save. Try again.
