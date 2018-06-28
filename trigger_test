@@ -1,4 +1,6 @@
 
+trigger a commit test
+
 periodically test
 
 introduce cloudformation to provision deploy target instances
