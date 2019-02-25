@@ -1,42 +1,10 @@
 
-clear
-# Feb. 23, 2019
-5
-4
-3
-2
-trigger 1
 
-# Feb. 22, 2019
-trigger 5
-trigger 4
-trigger 3
-trigger 2nd time
-trigger 1st time
-
-# 2018 June 29
-trigger 3rd
-
-trigger 2nd
-
-trigger 1st
-
-trigger a commit test
-
-periodically test
+# Feb. 25, 2019
+# clear
 
 introduce cloudformation to provision deploy target instances
 (introduce cfn for deploy target instances)
-
-final confirm
-
-4th retry
-
-3rd retry
-
-2nd retry
-
-1st retry
 
 stageName and actionName attrs into the "Message" attr.
 
